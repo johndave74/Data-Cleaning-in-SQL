@@ -1,5 +1,5 @@
 # Data-Cleaning-in-SQL
-# Data Cleaning SQL Script
+
 ## Overview
 This repository contains a SQL script designed to clean and preprocess raw data, making it ready for analysis. The script addresses common data quality issues such as missing values, duplicates, and inconsistent data formats.
 
